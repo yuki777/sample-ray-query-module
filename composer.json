@@ -11,7 +11,8 @@
         "bear/resource": "^1.15",
         "bear/sunday": "^1.5",
         "ray/aop": "^2.10",
-        "ray/di": "^2.11"
+        "ray/di": "^2.11",
+        "ray/query-module": "^0.6.1"
     },
     "require-dev": {
         "bear/api-doc": "1.x-dev",
